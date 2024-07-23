@@ -1,0 +1,4 @@
+watchdog
+openpyxl
+tkinter
+pillow
